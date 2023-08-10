@@ -32,4 +32,3 @@ spec:
       port: 5000
       targetPort: 80
    type: ClusterIP
-
